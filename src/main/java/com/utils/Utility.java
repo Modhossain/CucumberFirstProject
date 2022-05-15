@@ -11,6 +11,7 @@ public class Utility {
 			}
 		System.out.println("Expected value is : "+expectedvalue);
 		System.out.println("Actual value is : "+actualvalue);
+		System.out.println("This is only one way to solved problem");
 		
 	}
 
